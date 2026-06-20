@@ -4,10 +4,12 @@
 - Nombre Apellido: Brenda Insaurralde
 - Nombre Apellido: Diego 
 ## Carrera
-Nombre de la carrera: Teecnicatura Universitaria en Telecomunicaciones
+Nombre de la carrera: Tecnicatura Universitaria en Telecomunicaciones
 ## Materia
 Nombre de la materia: Programacion
 ## Programa Utilizado
 PseInt
 ## Descripción
 Breve descripción del TFI.026
+Diferentes algoritmos que cumplen con las
+condiciones especificadas en los ejercicios. 
