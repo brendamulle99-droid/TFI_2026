@@ -1,8 +1,6 @@
 Algoritmo invertir
 //	Invertir
-//	Este ejercicio debe solicitar al usuario que ingrese una cadena de
-//	texto o frase, y que la muestre invertida.
-//FinAlgoritmo
+//	Este ejercicio debe solicitar al usuario que ingrese una cadena de texto o frase, y que la muestre invertida.
 	definir cadenadetexto como cadena
 	definir inversa como cadena
 	definir total_letras como entero
