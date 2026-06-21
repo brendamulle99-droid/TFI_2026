@@ -1,6 +1,6 @@
 Algoritmo tabla
 //	Tabla de multiplicar
-//	Generar un programa que permita visualizar la tabla de multiplicar de un número "n" (n X 20) . (Donde el usuario debe ingresar el valor n
+//	Generar un programa que permita visualizar la tabla de multiplicar de un número "n" (n X 20) . (Donde el usuario debe ingresar el valor n)
 	definir valor_n Como Real
 	definir resultado Como Real
 	definir multiplicacion como real
