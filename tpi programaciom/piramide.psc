@@ -1,13 +1,10 @@
 Algoritmo piramide
-//	Pirámide
-//	Escribir un programa donde el usuario deba ingresar un número y
-//	pueda generarse una pirámide de números naturales, con altura igual
-//	al número ingresado. (Cada escalón de la pirámide se conforma de
-//	números naturales, y en cada uno de ellos, se agrega un elemento)
+//	PirÃ¡mide
+//	Escribir un programa donde el usuario deba ingresar un nÃºmero y pueda generarse una pirÃ¡mide de nÃºmeros naturales, con altura igual al nÃºmero ingresado. (Cada escalÃ³n de la pirÃ¡mide se conforma de nÃºmeros naturales, y en cada uno de ellos, se agrega un elemento)
 	definir altura Como Entero
 	definir num Como Entero 
 	definir i, j como entero
-	Escribir "Ingrese la altura de la pirámide:"
+	Escribir "Ingrese la altura de la pirÃ¡mide:"
     Leer altura
 	num <- 1
 	Para i <- 1 Hasta altura Con Paso 1 Hacer
