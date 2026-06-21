@@ -1,10 +1,8 @@
 Algoritmo interesc_calculo
-//Interés
-//	Escribir un programa que solicite al usuario ingresar el capital y el
-//	tiempo, y luego, permita calcular el interés simple.
-//Nota: La tasa de interés se encuentra precargada en el ejercicio y
-//	debe ser mostrada al usuario.
-	//Fórmula: interés = capital * tasa * tiempo	
+//InterÃ©s
+//	Escribir un programa que solicite al usuario ingresar el capital y el tiempo, y luego, permita calcular el interÃ©s simple.
+//  Nota: La tasa de interÃ©s se encuentra precargada en el ejercicio y debe ser mostrada al usuario.
+//  FÃ³rmula: interÃ©s = capital * tasa * tiempo	
 	definir capital, tasa, tiempo, interes como real
 	escribir "ingrese capital y tiempo"
 	leer capital, tiempo
