@@ -1,7 +1,6 @@
 Algoritmo contadorvolacales
 //	Contador de vocales
-//	Este ejercicio debe solicitar al usuario que ingrese una palabra o
-//	frase. Para que sea analizada y retorne cuántas vocales (tanto mayúsculas como minúsculas) contiene, mostrando el resultado de la salida.
+//	Este ejercicio debe solicitar al usuario que ingrese una palabra o frase. Para que sea analizada y retorne cuántas vocales (tanto mayúsculas como minúsculas) contiene, mostrando el resultado de la salida.
 	definir palabra como cadena
 	definir sumar como entero
 	definir cantidadvocales como entero
