@@ -1,7 +1,6 @@
 Algoritmo area
 //	Triángulo
-//	Escribir un programa que calcule el área de un triángulo dados su
-base y su altura. (Donde el usuario debe ingresar los datos)
+//	Escribir un programa que calcule el área de un triángulo dados su base y su altura. (Donde el usuario debe ingresar los datos)
 	definir base Como Real
 	definir altura Como Real
 	definir calculo Como Real
